@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/top-down-fantasy-1.mp3-bb5332982f11b774f3a7b53548e9e73c.mp3str"
+
+[deps]
+
+source_file="res://top-down-collection-pack/top-down-collection-pack/Topview Fantasy Patreon Collection/Music/Top Down Fantasy 1/top-down-fantasy-1.mp3"
+dest_files=[ "res://.import/top-down-fantasy-1.mp3-bb5332982f11b774f3a7b53548e9e73c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

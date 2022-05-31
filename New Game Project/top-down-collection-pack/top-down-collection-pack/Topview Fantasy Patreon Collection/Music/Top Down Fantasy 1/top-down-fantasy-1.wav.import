@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/top-down-fantasy-1.wav-ce724dc1657d4ff6140994ac060532b5.sample"
+
+[deps]
+
+source_file="res://top-down-collection-pack/top-down-collection-pack/Topview Fantasy Patreon Collection/Music/Top Down Fantasy 1/top-down-fantasy-1.wav"
+dest_files=[ "res://.import/top-down-fantasy-1.wav-ce724dc1657d4ff6140994ac060532b5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,13 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+valid=false
+
+[deps]
+
+source_file="res://top-down-collection-pack/__MACOSX/top-down-collection-pack/Topview Fantasy Patreon Collection/Music/Top Down Fantasy 1/._top-down-fantasy-1.ogg"
+[params]
+
+loop=true
+loop_offset=0

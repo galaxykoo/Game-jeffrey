@@ -1,0 +1,13 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+valid=false
+
+[deps]
+
+source_file="res://top-down-collection-pack/__MACOSX/top-down-collection-pack/Topview Fantasy Patreon Collection/Music/Top Down Fantasy 1/._top-down-fantasy-1.mp3"
+[params]
+
+loop=true
+loop_offset=0

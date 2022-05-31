@@ -1,0 +1,19 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+valid=false
+
+[deps]
+
+source_file="res://top-down-collection-pack/__MACOSX/top-down-collection-pack/Topview Fantasy Patreon Collection/Music/Top Down Fantasy 1/._top-down-fantasy-1.wav"
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
